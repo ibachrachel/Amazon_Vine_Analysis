@@ -23,6 +23,9 @@ This project will utilize approximately 50 datasets. Each one contains reviews o
   - Simple Storage Service (S3)
 - pgAdmin 4
 
+
+[Successful Linkage between AWS and PgAdmin](https://user-images.githubusercontent.com/102566199/183231546-16185402-428b-4070-84e3-566e65f537f9.png)
+
 ## Results
 
 ![Results](https://user-images.githubusercontent.com/102566199/183230977-cda965cb-e65a-440c-b83c-c7e6a49f1cca.png)
