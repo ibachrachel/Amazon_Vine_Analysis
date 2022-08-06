@@ -28,6 +28,8 @@ This project will utilize approximately 50 datasets. Each one contains reviews o
 
 There was a total of 9,002,021 reviews. 
 
+[Code: Total Number of Reviews](https://user-images.githubusercontent.com/102566199/183230820-6293efe1-e1c0-4a9c-914f-f6d326f2cef3.png)
+
 - How many Vine reviews and non-Vine reviews were there?
 
 | Vine Reviews | Non-Vine Reviews |
@@ -38,11 +40,19 @@ There was a total of 9,002,021 reviews.
 
 There was a total of 4,824,725 5-star reviews.
 
+[Code: Total Number of 5-Star Reviews](https://user-images.githubusercontent.com/102566199/183230842-b1e69082-2039-4d83-9a11-6003a9e0b65b.png)
+
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 | Vine Reviews | Non-Vine Reviews |
 | ------------ | -----------------|
 | 6,522        | 4,818,203        |
+
+
+[Code: Percent of 5-Star Vine Reviews](https://user-images.githubusercontent.com/102566199/183230883-47e7c8e6-0743-4c2f-ab21-2699dee01568.png)
+
+[Code: Percent of 5-Star Non-Vine Reviews](https://user-images.githubusercontent.com/102566199/183230944-3506af02-2c36-4d7c-81d0-c3c6834e65b0.png)
+
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
