@@ -25,6 +25,8 @@ This project will utilize approximately 50 datasets. Each one contains reviews o
 
 ## Results
 
+![Results](https://user-images.githubusercontent.com/102566199/183230977-cda965cb-e65a-440c-b83c-c7e6a49f1cca.png)
+
 
 There was a total of 9,002,021 reviews. 
 
