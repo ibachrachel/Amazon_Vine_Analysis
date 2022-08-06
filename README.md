@@ -34,6 +34,8 @@ There was a total of 9,002,021 reviews.
 | ------------ | -----------------|
 | 17,481       | 8,984,400        |
 
+-------------------------------------------------------
+
 There was a total of 4,824,725 5-star reviews.
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
@@ -47,6 +49,9 @@ There was a total of 4,824,725 5-star reviews.
 | Vine Reviews | Non-Vine Reviews |
 | ------------ | -----------------|
 |  37.3%       |    53.6%         |
+
+----------------------------------------------------
+
 
 ## Summary
 
