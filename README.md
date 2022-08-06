@@ -67,3 +67,12 @@ There was a total of 4,824,725 5-star reviews.
 
 ## Summary
 
+*Bias: Not Present*
+
+Based on the results above, there was no bias present within the Vine program. The non-Vine Reviews (unpaid reviews) are in higher quality and there are more with a 5-star rating. The results do not show that Vine is doing significantly better than non-Vine, so I would not conclude on any bias being apparent, at this level of analysis. 
+
+*Additional Analysis to Support Findings*
+
+In the future, more analyses should be run to possibly filter other columns of the dataset that might lead to a better understanding of the data. The verified purchase column would be helpful to perform this on because by comparing the ratings on verified purchases for both paid and unpaid reviews. It would also be helpful to more carefully track which users are leaving the most reviews. This could help to verify that the reviews are "real" and that the reviewer actually bought the product. 
+
+A useful filter would also be to search through the reviews and determine how rating differ from each other. If the paid reviews (Vine reviews) were higher on similar products, then there might be a possiblity of bias present. 
