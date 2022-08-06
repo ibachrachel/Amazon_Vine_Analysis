@@ -23,15 +23,30 @@ This project will utilize approximately 50 datasets. Each one contains reviews o
   - Simple Storage Service (S3)
 - pgAdmin 4
 
-## Analysis
-
-
-### Complications
-
-
 ## Results
 
 
+There was a total of 9,002,021 reviews. 
+
+- How many Vine reviews and non-Vine reviews were there?
+
+| Vine Reviews | Non-Vine Reviews |
+| ------------ | -----------------|
+| 17,481       | 8,984,400        |
+
+There was a total of 4,824,725 5-star reviews.
+
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+| Vine Reviews | Non-Vine Reviews |
+| ------------ | -----------------|
+| 6,522        | 4,818,203        |
+
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+| Vine Reviews | Non-Vine Reviews |
+| ------------ | -----------------|
+|  37.3%       |    53.6%         |
 
 ## Summary
 
